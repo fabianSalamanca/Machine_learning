@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/facas/Downloads/android-bootstrap/lobe_android/app/src/main/res/drawable/ic_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/facas/Downloads/android-bootstrap/lobe_android/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/facas/Downloads/android-bootstrap/lobe_android/app/src/main/res/layout/customlistview.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/facas/Downloads/android-bootstrap/lobe_android/app/src/main/res/layout/tfe_od_camera_connection_fragment_tracking.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
