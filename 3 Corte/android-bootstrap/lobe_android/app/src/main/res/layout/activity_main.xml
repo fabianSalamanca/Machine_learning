@@ -30,19 +30,7 @@
             android:id="@+id/container"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            app:layout_anchorGravity="center">
-
-            <TextView
-                android:id="@+id/textView2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="55dp"
-                android:background="@android:color/white"
-                android:padding="11dp"
-                android:text="Salamanca 2022"
-                android:textColor="@android:color/black"
-                android:visibility="visible" />
-        </FrameLayout>
+            app:layout_anchorGravity="center"/>
 
         <ImageView
             android:id="@+id/myImageView"
@@ -111,6 +99,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             tools:context=".CameraActivity" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <ImageView
